@@ -1,2 +1,4 @@
 # Earthquake-Detector
-ELG-5301 Course Requirement
+
+This is a Group Project for the ELG-5301 Course Requirement. 
+
