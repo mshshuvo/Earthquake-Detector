@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1",1,"2 Ω Resistor"
+"D1",1,"Green LED"
+"U5",1," LCD 16 x 2"
+"R2",1,"1 kΩ Resistor"
+"R4",1,"2 kΩ Resistor"
+"PIEZO1",1," Piezo"
+"TILT1, TILT2, TILT3",3," Tilt Sensor"
+"R3, R5, R6",3,"220 Ω Resistor"
